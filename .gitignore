@@ -1,0 +1,5 @@
+# Ignore env folder
+/env
+/.ipynb_checkpoints/
+/.DS_Store
+/bluebook-for-bulldozers
